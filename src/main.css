@@ -25,3 +25,6 @@ body {
   border-radius: var(--border-radius);
   background-color: white;
 }
+.container .form__input .form__button {
+  font: 500 1rem "Quicksand", sans-serif;
+}
